@@ -8,3 +8,6 @@
 dineshvarma1210/dineshvarma1210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Steps to install GO in ubuntu server:
+https://www.cyberciti.biz/faq/how-to-install-gol-ang-on-ubuntu-linux/
